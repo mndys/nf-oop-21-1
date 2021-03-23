@@ -1,8 +1,8 @@
 <?php
 
-include "Pokemon.php";
-include "ElectricPokemon.php";
-include "WaterPokemon.php";
+include "src/Pokemon.php";
+include "src/Pokemon/ElectricPokemon.php";
+include "src/Pokemon/WaterPokemon.php";
 
 $pika = new ElectricPokemon("Pika");
 $pika
