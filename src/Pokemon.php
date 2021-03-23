@@ -1,5 +1,7 @@
 <?php
 
+namespace NeueFische;
+
 abstract class Pokemon
 {
     protected string $name;

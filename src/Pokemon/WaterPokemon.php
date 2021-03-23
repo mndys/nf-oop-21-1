@@ -1,5 +1,9 @@
 <?php
 
+namespace NeueFische\Pokemon;
+
+use NeueFische\Pokemon;
+
 class WaterPokemon extends Pokemon
 {
     public function attack(Pokemon $pokemon): void
