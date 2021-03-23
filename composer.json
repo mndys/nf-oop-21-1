@@ -1,0 +1,12 @@
+{
+    "name": "till/nf-pokemon",
+    "description": "The best pokemon app",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Till Schander",
+            "email": "tillschander@gmail.com"
+        }
+    ],
+    "require": {}
+}
